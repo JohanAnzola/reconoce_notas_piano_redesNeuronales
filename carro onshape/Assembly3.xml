@@ -1,0 +1,1309 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SimscapeMultibodyImportXML xmlns="urn:mathworks:SimscapeMultibody:import"
+                            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                            version="2.0">
+   <Created by="johan anzola" from="Onshape" on="12/09/20||21:52:24"
+            using="Simscape Multibody Exporter"/>
+   <ModelUnits length="millimeter" mass="kilogram"/>
+   <DataUnits length="meter" mass="kilogram"/>
+   <RootAssembly name="Assembly 3" uid="850ad0709995f1625f65a771"
+                 version="w-429d5ae84e1a9187ac351caa">
+      <InstanceTree>
+         <Instance entityUid="ab7862fbbdc9674966046cfa" name="Assembly_carro &lt;1&gt;"
+                   uid="Mk0jsXc11kxCO745U">
+            <Transform>
+               <Rotation>1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 </Rotation>
+               <Translation>-0.001449256 -0.018103012 0.005171192 </Translation>
+            </Transform>
+            <Instance entityUid="JJH*:*d573ebf4297701bbdeb2d526" name="parachoquetrasero &lt;1&gt;"
+                      uid="M9qVakqTEukSkFK7S">
+               <Transform>
+                  <Rotation>1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 </Rotation>
+                  <Translation>-0.019715760 -0.003013387 0.002577708 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="JiH*:*d573ebf4297701bbdeb2d526" name="llantadeder &lt;1&gt;"
+                      uid="M8yLsfO7VfRlf85uV">
+               <Transform>
+                  <Rotation>1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 </Rotation>
+                  <Translation>-0.019715760 -0.003013387 0.002577708 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="JlL*:*d573ebf4297701bbdeb2d526" name="rindeiz &lt;1&gt;"
+                      uid="Mb6CxQRT7gsI4d+w/">
+               <Transform>
+                  <Rotation>1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 </Rotation>
+                  <Translation>-0.019715760 -0.003013387 0.002577708 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="JoH*:*d573ebf4297701bbdeb2d526" name="ventanatrader &lt;1&gt;"
+                      uid="MlG1EbhPbgpmevM97">
+               <Transform>
+                  <Rotation>1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 </Rotation>
+                  <Translation>-0.019715760 -0.003013387 0.002577708 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="JKH*:*d573ebf4297701bbdeb2d526" name="ledfrontalder &lt;1&gt;"
+                      uid="MBvruSFNtsWZ9cnqC">
+               <Transform>
+                  <Rotation>1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 </Rotation>
+                  <Translation>-0.019715760 -0.003013387 0.002577708 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="JtD*:*d573ebf4297701bbdeb2d526" name="ventanaiz1 &lt;1&gt;"
+                      uid="MZvs5fIL4pPMPKpEU">
+               <Transform>
+                  <Rotation>1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 </Rotation>
+                  <Translation>-0.019715760 -0.003013387 0.002577708 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="JoL*:*d573ebf4297701bbdeb2d526" name="ventanatraiz &lt;1&gt;"
+                      uid="Mwicxn+g/AjlMjq+W">
+               <Transform>
+                  <Rotation>1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 </Rotation>
+                  <Translation>-0.019715760 -0.003013387 0.002577708 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="JKD*:*d573ebf4297701bbdeb2d526" name="ventanafrontal &lt;1&gt;"
+                      uid="Mnd5juhGoGtWSiU9A">
+               <Transform>
+                  <Rotation>1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 </Rotation>
+                  <Translation>-0.019715760 -0.003013387 0.002577708 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="JUP*:*d573ebf4297701bbdeb2d526" name="puertatrader &lt;1&gt;"
+                      uid="M0jNPuMptakLaOQn4">
+               <Transform>
+                  <Rotation>1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 </Rotation>
+                  <Translation>-0.019715760 -0.003013387 0.002577708 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="JoD*:*d573ebf4297701bbdeb2d526" name="regillacapo &lt;1&gt;"
+                      uid="Mv48fpVSr6ijVyt2A">
+               <Transform>
+                  <Rotation>1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 </Rotation>
+                  <Translation>-0.019715760 -0.003013387 0.002577708 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="JXH*:*d573ebf4297701bbdeb2d526" name="ventanader2 &lt;1&gt;"
+                      uid="MgmXXV7vG5fAq9YQJ">
+               <Transform>
+                  <Rotation>1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 </Rotation>
+                  <Translation>-0.019715760 -0.003013387 0.002577708 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="JKP*:*d573ebf4297701bbdeb2d526" name="ledposterioriz &lt;1&gt;"
+                      uid="MLy935TcGf5+9AjDu">
+               <Transform>
+                  <Rotation>1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 </Rotation>
+                  <Translation>-0.019715760 -0.003013387 0.002577708 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="JlP*:*d573ebf4297701bbdeb2d526" name="rintraiz &lt;1&gt;"
+                      uid="MEwQ/M1AmKiFuIUMt">
+               <Transform>
+                  <Rotation>1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 </Rotation>
+                  <Translation>-0.019715760 -0.003013387 0.002577708 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="JUL*:*d573ebf4297701bbdeb2d526" name="puertadeder &lt;1&gt;"
+                      uid="MAETFLGB+vGQhogrf">
+               <Transform>
+                  <Rotation>1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 </Rotation>
+                  <Translation>-0.019715760 -0.003013387 0.002577708 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="JlD*:*d573ebf4297701bbdeb2d526" name="llantatraiz &lt;1&gt;"
+                      uid="MRoDZ6o9bSrwWn8uW">
+               <Transform>
+                  <Rotation>1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 </Rotation>
+                  <Translation>-0.019715760 -0.003013387 0.002577708 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="JXL*:*d573ebf4297701bbdeb2d526" name="ventanader3 &lt;1&gt;"
+                      uid="M5tZhftQyqCJ+BlrU">
+               <Transform>
+                  <Rotation>1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 </Rotation>
+                  <Translation>-0.019715760 -0.003013387 0.002577708 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="JPH*:*d573ebf4297701bbdeb2d526" name="decodeiz &lt;1&gt;"
+                      uid="MMAEyO1Ch4QA+jVIN">
+               <Transform>
+                  <Rotation>1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 </Rotation>
+                  <Translation>-0.019715760 -0.003013387 0.002577708 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="JPL*:*d573ebf4297701bbdeb2d526" name="puertadeiz &lt;1&gt;"
+                      uid="Mis51NYjtx5yExoVG">
+               <Transform>
+                  <Rotation>1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 </Rotation>
+                  <Translation>-0.019715760 -0.003013387 0.002577708 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="JiL*:*d573ebf4297701bbdeb2d526" name="rindeder &lt;1&gt;"
+                      uid="MFAfoDegNlarExQSJ">
+               <Transform>
+                  <Rotation>1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 </Rotation>
+                  <Translation>-0.019715760 -0.003013387 0.002577708 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="JiD*:*d573ebf4297701bbdeb2d526" name="llantatrader &lt;1&gt;"
+                      uid="M8HSBgXxKP24wXwV9">
+               <Transform>
+                  <Rotation>1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 </Rotation>
+                  <Translation>-0.019715760 -0.003013387 0.002577708 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="JPP*:*d573ebf4297701bbdeb2d526" name="puertatraiz &lt;1&gt;"
+                      uid="M3mKdUFOn2B93jaoh">
+               <Transform>
+                  <Rotation>1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 </Rotation>
+                  <Translation>-0.019715760 -0.003013387 0.002577708 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="JJD*:*d573ebf4297701bbdeb2d526" name="chasis &lt;1&gt;"
+                      uid="MWebkQEkCLBTJICni">
+               <Transform>
+                  <Rotation>1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 </Rotation>
+                  <Translation>-0.019715760 -0.003013387 0.002577708 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="JtL*:*d573ebf4297701bbdeb2d526" name="ventanaiz3 &lt;1&gt;"
+                      uid="M9cD0nKUbSVPF7jF6">
+               <Transform>
+                  <Rotation>1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 </Rotation>
+                  <Translation>-0.019715760 -0.003013387 0.002577708 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="JiP*:*d573ebf4297701bbdeb2d526" name="rintrader &lt;1&gt;"
+                      uid="M5BU/EqliKRyUWCU1">
+               <Transform>
+                  <Rotation>1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 </Rotation>
+                  <Translation>-0.019715760 -0.003013387 0.002577708 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="JKT*:*d573ebf4297701bbdeb2d526" name="ledposteriorder &lt;1&gt;"
+                      uid="Mjt1LcRnSlINeWutm">
+               <Transform>
+                  <Rotation>1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 </Rotation>
+                  <Translation>-0.019715760 -0.003013387 0.002577708 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="JrD*:*d573ebf4297701bbdeb2d526" name="capo &lt;1&gt;"
+                      uid="MfXH/Zplyl2HXyZ7G">
+               <Transform>
+                  <Rotation>1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 </Rotation>
+                  <Translation>-0.019715760 -0.003013387 0.002577708 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="JUH*:*d573ebf4297701bbdeb2d526" name="decodeder &lt;1&gt;"
+                      uid="MsUJSxBZF+M1Yel+M">
+               <Transform>
+                  <Rotation>1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 </Rotation>
+                  <Translation>-0.019715760 -0.003013387 0.002577708 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="JPD*:*d573ebf4297701bbdeb2d526" name="decotraiz &lt;1&gt;"
+                      uid="MdzO7IDYMFcSWH9ng">
+               <Transform>
+                  <Rotation>1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 </Rotation>
+                  <Translation>-0.019715760 -0.003013387 0.002577708 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="JJL*:*d573ebf4297701bbdeb2d526" name="parachoquedelantero &lt;1&gt;"
+                      uid="MC0YY7WPcp5O2iYt9">
+               <Transform>
+                  <Rotation>1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 </Rotation>
+                  <Translation>-0.019715760 -0.003013387 0.002577708 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="JXD*:*d573ebf4297701bbdeb2d526" name="ventadader1 &lt;1&gt;"
+                      uid="MM6szeoOBvyoWwWU6">
+               <Transform>
+                  <Rotation>1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 </Rotation>
+                  <Translation>-0.019715760 -0.003013387 0.002577708 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="JUD*:*d573ebf4297701bbdeb2d526" name="decotrader &lt;1&gt;"
+                      uid="MwwlSjxyiFZYnrHm+">
+               <Transform>
+                  <Rotation>1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 </Rotation>
+                  <Translation>-0.019715760 -0.003013387 0.002577708 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="JKL*:*d573ebf4297701bbdeb2d526" name="ledfrontaliz &lt;1&gt;"
+                      uid="M73e+tKSrvKL0Da8D">
+               <Transform>
+                  <Rotation>1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 </Rotation>
+                  <Translation>-0.019715760 -0.003013387 0.002577708 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="JlH*:*d573ebf4297701bbdeb2d526" name="llantadeiz &lt;1&gt;"
+                      uid="MDeAmOb9n7PmJPQu6">
+               <Transform>
+                  <Rotation>1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 </Rotation>
+                  <Translation>-0.019715760 -0.003013387 0.002577708 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="JtH*:*d573ebf4297701bbdeb2d526" name="vantanaiz2 &lt;1&gt;"
+                      uid="MciOdYkpeLgX3n8JA">
+               <Transform>
+                  <Rotation>1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 </Rotation>
+                  <Translation>-0.019715760 -0.003013387 0.002577708 </Translation>
+               </Transform>
+            </Instance>
+         </Instance>
+         <Instance entityUid="f32bcbbe60c89fc99667af76" name="Assembly_zona &lt;1&gt;"
+                   uid="MDRPlQpIZ5EspXIxc">
+            <Transform>
+               <Rotation>1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 </Rotation>
+               <Translation>0.034277436 0.009641198 -0.015223333 </Translation>
+            </Transform>
+            <Instance entityUid="JIL*:*77db771c0fa8a6853da76872" name="carretera4 &lt;1&gt;"
+                      uid="MNDuiD2KEpE90Myyd">
+               <Transform>
+                  <Rotation>1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 </Rotation>
+                  <Translation>-0.016084416 0.095851214 -0.018963623 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="JJf*:*77db771c0fa8a6853da76872" name="l31 &lt;1&gt;"
+                      uid="MHxf65qLnsGPPV+qB">
+               <Transform>
+                  <Rotation>1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 </Rotation>
+                  <Translation>-0.016084416 0.095851214 -0.018963623 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="JIf*:*77db771c0fa8a6853da76872" name="carretera15 &lt;1&gt;"
+                      uid="MYTjHAhk1Xzu2sk4l">
+               <Transform>
+                  <Rotation>1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 </Rotation>
+                  <Translation>-0.016084416 0.095851214 -0.018963623 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="JIX*:*77db771c0fa8a6853da76872" name="carretera11 &lt;1&gt;"
+                      uid="M64pL6dbW1kFW2IKc">
+               <Transform>
+                  <Rotation>1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 </Rotation>
+                  <Translation>-0.016084416 0.095851214 -0.018963623 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="JJT*:*77db771c0fa8a6853da76872" name="l41 &lt;1&gt;"
+                      uid="MXtxzQZxTY3pAOojQ">
+               <Transform>
+                  <Rotation>1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 </Rotation>
+                  <Translation>-0.016084416 0.095851214 -0.018963623 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="JHD*:*77db771c0fa8a6853da76872" name="pasto1 &lt;1&gt;"
+                      uid="MsKOpWc/2RN9zoSGe">
+               <Transform>
+                  <Rotation>1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 </Rotation>
+                  <Translation>-0.016084416 0.095851214 -0.018963623 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="JJP*:*77db771c0fa8a6853da76872" name="l42 &lt;1&gt;"
+                      uid="MhXL2UkPEovSnEHm1">
+               <Transform>
+                  <Rotation>1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 </Rotation>
+                  <Translation>-0.016084416 0.095851214 -0.018963623 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="JHH*:*77db771c0fa8a6853da76872" name="pasto2 &lt;1&gt;"
+                      uid="MtSGC5ZeYMIrG2tcV">
+               <Transform>
+                  <Rotation>1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 </Rotation>
+                  <Translation>-0.016084416 0.095851214 -0.018963623 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="JIb*:*77db771c0fa8a6853da76872" name="carretera14 &lt;1&gt;"
+                      uid="M8sKEPpo9l7j9zlom">
+               <Transform>
+                  <Rotation>1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 </Rotation>
+                  <Translation>-0.016084416 0.095851214 -0.018963623 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="JJL*:*77db771c0fa8a6853da76872" name="l22 &lt;1&gt;"
+                      uid="MgpRjJKsAdONEvDA4">
+               <Transform>
+                  <Rotation>1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 </Rotation>
+                  <Translation>-0.016084416 0.095851214 -0.018963623 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="JJD*:*77db771c0fa8a6853da76872" name="lineacentro &lt;1&gt;"
+                      uid="MAp6Z4P/xSLP1inIM">
+               <Transform>
+                  <Rotation>1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 </Rotation>
+                  <Translation>-0.016084416 0.095851214 -0.018963623 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="JJH*:*77db771c0fa8a6853da76872" name="l21 &lt;1&gt;"
+                      uid="MGEEI6gA/i41jDo4Y">
+               <Transform>
+                  <Rotation>1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 </Rotation>
+                  <Translation>-0.016084416 0.095851214 -0.018963623 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="JIT*:*77db771c0fa8a6853da76872" name="carretera13 &lt;1&gt;"
+                      uid="MeXeb5qnbTOiswq2c">
+               <Transform>
+                  <Rotation>1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 </Rotation>
+                  <Translation>-0.016084416 0.095851214 -0.018963623 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="JJX*:*77db771c0fa8a6853da76872" name="l11 &lt;1&gt;"
+                      uid="MxrvfwTpnUuejyyXO">
+               <Transform>
+                  <Rotation>1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 </Rotation>
+                  <Translation>-0.016084416 0.095851214 -0.018963623 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="JID*:*77db771c0fa8a6853da76872" name="carretera1 &lt;1&gt;"
+                      uid="MF/CPqM0hitM6h2+C">
+               <Transform>
+                  <Rotation>1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 </Rotation>
+                  <Translation>-0.016084416 0.095851214 -0.018963623 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="JJj*:*77db771c0fa8a6853da76872" name="l32 &lt;1&gt;"
+                      uid="MIIJh2cPPMbk19lTF">
+               <Transform>
+                  <Rotation>1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 </Rotation>
+                  <Translation>-0.016084416 0.095851214 -0.018963623 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="JHP*:*77db771c0fa8a6853da76872" name="pasto5 &lt;1&gt;"
+                      uid="M6lp+npFiYY54DX3e">
+               <Transform>
+                  <Rotation>1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 </Rotation>
+                  <Translation>-0.016084416 0.095851214 -0.018963623 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="JHL*:*77db771c0fa8a6853da76872" name="pasto4 &lt;1&gt;"
+                      uid="MKqlK2XhgLijdP8gB">
+               <Transform>
+                  <Rotation>1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 </Rotation>
+                  <Translation>-0.016084416 0.095851214 -0.018963623 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="JIP*:*77db771c0fa8a6853da76872" name="carretera2 &lt;1&gt;"
+                      uid="M2yMWiSr9fHqyy/Rv">
+               <Transform>
+                  <Rotation>1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 </Rotation>
+                  <Translation>-0.016084416 0.095851214 -0.018963623 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="JIH*:*77db771c0fa8a6853da76872" name="carretera3 &lt;1&gt;"
+                      uid="Ma5R9fIvZxr/arFqG">
+               <Transform>
+                  <Rotation>1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 </Rotation>
+                  <Translation>-0.016084416 0.095851214 -0.018963623 </Translation>
+               </Transform>
+            </Instance>
+            <Instance entityUid="JJb*:*77db771c0fa8a6853da76872" name="l12 &lt;1&gt;"
+                      uid="MqYV9O+tl8nv/pDjm">
+               <Transform>
+                  <Rotation>1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 0.000000000 0.000000000 0.000000000 1.000000000 </Rotation>
+                  <Translation>-0.016084416 0.095851214 -0.018963623 </Translation>
+               </Transform>
+            </Instance>
+         </Instance>
+      </InstanceTree>
+      <Constraints/>
+      <Joints/>
+   </RootAssembly>
+   <Assemblies>
+      <Assembly name="Assembly_zona" uid="f32bcbbe60c89fc99667af76">
+         <ModelUnits length="millimeter" mass="kilogram"/>
+         <Constraints/>
+         <Joints/>
+      </Assembly>
+      <Assembly name="Assembly_carro" uid="ab7862fbbdc9674966046cfa">
+         <ModelUnits length="millimeter" mass="kilogram"/>
+         <Constraints/>
+         <Joints/>
+      </Assembly>
+   </Assemblies>
+   <Parts>
+      <Part name="pasto1" uid="JHD*:*77db771c0fa8a6853da76872">
+         <ModelUnits length="millimeter" mass="kilogram"/>
+         <MassProperties>
+            <Mass>0</Mass>
+            <CenterOfMass>0.000000000 0.000000000 0.000000000 </CenterOfMass>
+            <Inertia>0.000000000 0.000000000 0.000000000 0.000000000 0.000000000 0.000000000 </Inertia>
+         </MassProperties>
+         <GeometryFile name="pasto1.step" type="STEP"/>
+         <VisualProperties>
+            <Ambient a="1.000000000" b="0.929411765" g="0.811764706" r="0.615686275"/>
+            <Diffuse a="1.000000000" b="0.929411765" g="0.811764706" r="0.615686275"/>
+            <Specular a="1.000000000" b="0.929411765" g="0.811764706" r="0.615686275"/>
+            <Emissive a="1" b="0" g="0" r="0"/>
+            <Shininess>0.5</Shininess>
+         </VisualProperties>
+      </Part>
+      <Part name="pasto2" uid="JHH*:*77db771c0fa8a6853da76872">
+         <ModelUnits length="millimeter" mass="kilogram"/>
+         <MassProperties>
+            <Mass>0</Mass>
+            <CenterOfMass>0.000000000 0.000000000 0.000000000 </CenterOfMass>
+            <Inertia>0.000000000 0.000000000 0.000000000 0.000000000 0.000000000 0.000000000 </Inertia>
+         </MassProperties>
+         <GeometryFile name="pasto2.step" type="STEP"/>
+         <VisualProperties>
+            <Ambient a="1.000000000" b="0.647058824" g="0.647058824" r="0.647058824"/>
+            <Diffuse a="1.000000000" b="0.647058824" g="0.647058824" r="0.647058824"/>
+            <Specular a="1.000000000" b="0.647058824" g="0.647058824" r="0.647058824"/>
+            <Emissive a="1" b="0" g="0" r="0"/>
+            <Shininess>0.5</Shininess>
+         </VisualProperties>
+      </Part>
+      <Part name="pasto4" uid="JHL*:*77db771c0fa8a6853da76872">
+         <ModelUnits length="millimeter" mass="kilogram"/>
+         <MassProperties>
+            <Mass>0</Mass>
+            <CenterOfMass>0.000000000 0.000000000 0.000000000 </CenterOfMass>
+            <Inertia>0.000000000 0.000000000 0.000000000 0.000000000 0.000000000 0.000000000 </Inertia>
+         </MassProperties>
+         <GeometryFile name="pasto4.step" type="STEP"/>
+         <VisualProperties>
+            <Ambient a="1.000000000" b="0.705882353" g="0.380392157" r="0.231372549"/>
+            <Diffuse a="1.000000000" b="0.705882353" g="0.380392157" r="0.231372549"/>
+            <Specular a="1.000000000" b="0.705882353" g="0.380392157" r="0.231372549"/>
+            <Emissive a="1" b="0" g="0" r="0"/>
+            <Shininess>0.5</Shininess>
+         </VisualProperties>
+      </Part>
+      <Part name="pasto5" uid="JHP*:*77db771c0fa8a6853da76872">
+         <ModelUnits length="millimeter" mass="kilogram"/>
+         <MassProperties>
+            <Mass>0</Mass>
+            <CenterOfMass>0.000000000 0.000000000 0.000000000 </CenterOfMass>
+            <Inertia>0.000000000 0.000000000 0.000000000 0.000000000 0.000000000 0.000000000 </Inertia>
+         </MassProperties>
+         <GeometryFile name="pasto5.step" type="STEP"/>
+         <VisualProperties>
+            <Ambient a="1.000000000" b="0.917647059" g="0.917647059" r="0.917647059"/>
+            <Diffuse a="1.000000000" b="0.917647059" g="0.917647059" r="0.917647059"/>
+            <Specular a="1.000000000" b="0.917647059" g="0.917647059" r="0.917647059"/>
+            <Emissive a="1" b="0" g="0" r="0"/>
+            <Shininess>0.5</Shininess>
+         </VisualProperties>
+      </Part>
+      <Part name="carretera1" uid="JID*:*77db771c0fa8a6853da76872">
+         <ModelUnits length="millimeter" mass="kilogram"/>
+         <MassProperties>
+            <Mass>0</Mass>
+            <CenterOfMass>0.000000000 0.000000000 0.000000000 </CenterOfMass>
+            <Inertia>0.000000000 0.000000000 0.000000000 0.000000000 0.000000000 0.000000000 </Inertia>
+         </MassProperties>
+         <GeometryFile name="carretera1.step" type="STEP"/>
+         <VisualProperties>
+            <Ambient a="1.000000000" b="0.929411765" g="0.811764706" r="0.615686275"/>
+            <Diffuse a="1.000000000" b="0.929411765" g="0.811764706" r="0.615686275"/>
+            <Specular a="1.000000000" b="0.929411765" g="0.811764706" r="0.615686275"/>
+            <Emissive a="1" b="0" g="0" r="0"/>
+            <Shininess>0.5</Shininess>
+         </VisualProperties>
+      </Part>
+      <Part name="carretera3" uid="JIH*:*77db771c0fa8a6853da76872">
+         <ModelUnits length="millimeter" mass="kilogram"/>
+         <MassProperties>
+            <Mass>0</Mass>
+            <CenterOfMass>0.000000000 0.000000000 0.000000000 </CenterOfMass>
+            <Inertia>0.000000000 0.000000000 0.000000000 0.000000000 0.000000000 0.000000000 </Inertia>
+         </MassProperties>
+         <GeometryFile name="carretera3.step" type="STEP"/>
+         <VisualProperties>
+            <Ambient a="1.000000000" b="0.647058824" g="0.647058824" r="0.647058824"/>
+            <Diffuse a="1.000000000" b="0.647058824" g="0.647058824" r="0.647058824"/>
+            <Specular a="1.000000000" b="0.647058824" g="0.647058824" r="0.647058824"/>
+            <Emissive a="1" b="0" g="0" r="0"/>
+            <Shininess>0.5</Shininess>
+         </VisualProperties>
+      </Part>
+      <Part name="carretera4" uid="JIL*:*77db771c0fa8a6853da76872">
+         <ModelUnits length="millimeter" mass="kilogram"/>
+         <MassProperties>
+            <Mass>0</Mass>
+            <CenterOfMass>0.000000000 0.000000000 0.000000000 </CenterOfMass>
+            <Inertia>0.000000000 0.000000000 0.000000000 0.000000000 0.000000000 0.000000000 </Inertia>
+         </MassProperties>
+         <GeometryFile name="carretera4.step" type="STEP"/>
+         <VisualProperties>
+            <Ambient a="1.000000000" b="0.705882353" g="0.380392157" r="0.231372549"/>
+            <Diffuse a="1.000000000" b="0.705882353" g="0.380392157" r="0.231372549"/>
+            <Specular a="1.000000000" b="0.705882353" g="0.380392157" r="0.231372549"/>
+            <Emissive a="1" b="0" g="0" r="0"/>
+            <Shininess>0.5</Shininess>
+         </VisualProperties>
+      </Part>
+      <Part name="carretera2" uid="JIP*:*77db771c0fa8a6853da76872">
+         <ModelUnits length="millimeter" mass="kilogram"/>
+         <MassProperties>
+            <Mass>0</Mass>
+            <CenterOfMass>0.000000000 0.000000000 0.000000000 </CenterOfMass>
+            <Inertia>0.000000000 0.000000000 0.000000000 0.000000000 0.000000000 0.000000000 </Inertia>
+         </MassProperties>
+         <GeometryFile name="carretera2.step" type="STEP"/>
+         <VisualProperties>
+            <Ambient a="1.000000000" b="0.917647059" g="0.917647059" r="0.917647059"/>
+            <Diffuse a="1.000000000" b="0.917647059" g="0.917647059" r="0.917647059"/>
+            <Specular a="1.000000000" b="0.917647059" g="0.917647059" r="0.917647059"/>
+            <Emissive a="1" b="0" g="0" r="0"/>
+            <Shininess>0.5</Shininess>
+         </VisualProperties>
+      </Part>
+      <Part name="carretera13" uid="JIT*:*77db771c0fa8a6853da76872">
+         <ModelUnits length="millimeter" mass="kilogram"/>
+         <MassProperties>
+            <Mass>0</Mass>
+            <CenterOfMass>0.000000000 0.000000000 0.000000000 </CenterOfMass>
+            <Inertia>0.000000000 0.000000000 0.000000000 0.000000000 0.000000000 0.000000000 </Inertia>
+         </MassProperties>
+         <GeometryFile name="carretera13.step" type="STEP"/>
+         <VisualProperties>
+            <Ambient a="1.000000000" b="0.952941176" g="0.886274510" r="0.768627451"/>
+            <Diffuse a="1.000000000" b="0.952941176" g="0.886274510" r="0.768627451"/>
+            <Specular a="1.000000000" b="0.952941176" g="0.886274510" r="0.768627451"/>
+            <Emissive a="1" b="0" g="0" r="0"/>
+            <Shininess>0.5</Shininess>
+         </VisualProperties>
+      </Part>
+      <Part name="carretera11" uid="JIX*:*77db771c0fa8a6853da76872">
+         <ModelUnits length="millimeter" mass="kilogram"/>
+         <MassProperties>
+            <Mass>0</Mass>
+            <CenterOfMass>0.000000000 0.000000000 0.000000000 </CenterOfMass>
+            <Inertia>0.000000000 0.000000000 0.000000000 0.000000000 0.000000000 0.000000000 </Inertia>
+         </MassProperties>
+         <GeometryFile name="carretera11.step" type="STEP"/>
+         <VisualProperties>
+            <Ambient a="1.000000000" b="0.003921569" g="0.529411765" r="0.972549020"/>
+            <Diffuse a="1.000000000" b="0.003921569" g="0.529411765" r="0.972549020"/>
+            <Specular a="1.000000000" b="0.003921569" g="0.529411765" r="0.972549020"/>
+            <Emissive a="1" b="0" g="0" r="0"/>
+            <Shininess>0.5</Shininess>
+         </VisualProperties>
+      </Part>
+      <Part name="carretera14" uid="JIb*:*77db771c0fa8a6853da76872">
+         <ModelUnits length="millimeter" mass="kilogram"/>
+         <MassProperties>
+            <Mass>0</Mass>
+            <CenterOfMass>0.000000000 0.000000000 0.000000000 </CenterOfMass>
+            <Inertia>0.000000000 0.000000000 0.000000000 0.000000000 0.000000000 0.000000000 </Inertia>
+         </MassProperties>
+         <GeometryFile name="carretera14.step" type="STEP"/>
+         <VisualProperties>
+            <Ambient a="1.000000000" b="0.498039216" g="0.498039216" r="0.498039216"/>
+            <Diffuse a="1.000000000" b="0.498039216" g="0.498039216" r="0.498039216"/>
+            <Specular a="1.000000000" b="0.498039216" g="0.498039216" r="0.498039216"/>
+            <Emissive a="1" b="0" g="0" r="0"/>
+            <Shininess>0.5</Shininess>
+         </VisualProperties>
+      </Part>
+      <Part name="carretera15" uid="JIf*:*77db771c0fa8a6853da76872">
+         <ModelUnits length="millimeter" mass="kilogram"/>
+         <MassProperties>
+            <Mass>0</Mass>
+            <CenterOfMass>0.000000000 0.000000000 0.000000000 </CenterOfMass>
+            <Inertia>0.000000000 0.000000000 0.000000000 0.000000000 0.000000000 0.000000000 </Inertia>
+         </MassProperties>
+         <GeometryFile name="carretera15.step" type="STEP"/>
+         <VisualProperties>
+            <Ambient a="1.000000000" b="0.003921569" g="0.713725490" r="0.980392157"/>
+            <Diffuse a="1.000000000" b="0.003921569" g="0.713725490" r="0.980392157"/>
+            <Specular a="1.000000000" b="0.003921569" g="0.713725490" r="0.980392157"/>
+            <Emissive a="1" b="0" g="0" r="0"/>
+            <Shininess>0.5</Shininess>
+         </VisualProperties>
+      </Part>
+      <Part name="lineacentro" uid="JJD*:*77db771c0fa8a6853da76872">
+         <ModelUnits length="millimeter" mass="kilogram"/>
+         <MassProperties>
+            <Mass>0</Mass>
+            <CenterOfMass>0.000000000 0.000000000 0.000000000 </CenterOfMass>
+            <Inertia>0.000000000 0.000000000 0.000000000 0.000000000 0.000000000 0.000000000 </Inertia>
+         </MassProperties>
+         <GeometryFile name="lineacentro.step" type="STEP"/>
+         <VisualProperties>
+            <Ambient a="1.000000000" b="0.929411765" g="0.811764706" r="0.615686275"/>
+            <Diffuse a="1.000000000" b="0.929411765" g="0.811764706" r="0.615686275"/>
+            <Specular a="1.000000000" b="0.929411765" g="0.811764706" r="0.615686275"/>
+            <Emissive a="1" b="0" g="0" r="0"/>
+            <Shininess>0.5</Shininess>
+         </VisualProperties>
+      </Part>
+      <Part name="l21" uid="JJH*:*77db771c0fa8a6853da76872">
+         <ModelUnits length="millimeter" mass="kilogram"/>
+         <MassProperties>
+            <Mass>0</Mass>
+            <CenterOfMass>0.000000000 0.000000000 0.000000000 </CenterOfMass>
+            <Inertia>0.000000000 0.000000000 0.000000000 0.000000000 0.000000000 0.000000000 </Inertia>
+         </MassProperties>
+         <GeometryFile name="l21.step" type="STEP"/>
+         <VisualProperties>
+            <Ambient a="1.000000000" b="0.647058824" g="0.647058824" r="0.647058824"/>
+            <Diffuse a="1.000000000" b="0.647058824" g="0.647058824" r="0.647058824"/>
+            <Specular a="1.000000000" b="0.647058824" g="0.647058824" r="0.647058824"/>
+            <Emissive a="1" b="0" g="0" r="0"/>
+            <Shininess>0.5</Shininess>
+         </VisualProperties>
+      </Part>
+      <Part name="l22" uid="JJL*:*77db771c0fa8a6853da76872">
+         <ModelUnits length="millimeter" mass="kilogram"/>
+         <MassProperties>
+            <Mass>0</Mass>
+            <CenterOfMass>0.000000000 0.000000000 0.000000000 </CenterOfMass>
+            <Inertia>0.000000000 0.000000000 0.000000000 0.000000000 0.000000000 0.000000000 </Inertia>
+         </MassProperties>
+         <GeometryFile name="l22.step" type="STEP"/>
+         <VisualProperties>
+            <Ambient a="1.000000000" b="0.705882353" g="0.380392157" r="0.231372549"/>
+            <Diffuse a="1.000000000" b="0.705882353" g="0.380392157" r="0.231372549"/>
+            <Specular a="1.000000000" b="0.705882353" g="0.380392157" r="0.231372549"/>
+            <Emissive a="1" b="0" g="0" r="0"/>
+            <Shininess>0.5</Shininess>
+         </VisualProperties>
+      </Part>
+      <Part name="l42" uid="JJP*:*77db771c0fa8a6853da76872">
+         <ModelUnits length="millimeter" mass="kilogram"/>
+         <MassProperties>
+            <Mass>0</Mass>
+            <CenterOfMass>0.000000000 0.000000000 0.000000000 </CenterOfMass>
+            <Inertia>0.000000000 0.000000000 0.000000000 0.000000000 0.000000000 0.000000000 </Inertia>
+         </MassProperties>
+         <GeometryFile name="l42.step" type="STEP"/>
+         <VisualProperties>
+            <Ambient a="1.000000000" b="0.917647059" g="0.917647059" r="0.917647059"/>
+            <Diffuse a="1.000000000" b="0.917647059" g="0.917647059" r="0.917647059"/>
+            <Specular a="1.000000000" b="0.917647059" g="0.917647059" r="0.917647059"/>
+            <Emissive a="1" b="0" g="0" r="0"/>
+            <Shininess>0.5</Shininess>
+         </VisualProperties>
+      </Part>
+      <Part name="l41" uid="JJT*:*77db771c0fa8a6853da76872">
+         <ModelUnits length="millimeter" mass="kilogram"/>
+         <MassProperties>
+            <Mass>0</Mass>
+            <CenterOfMass>0.000000000 0.000000000 0.000000000 </CenterOfMass>
+            <Inertia>0.000000000 0.000000000 0.000000000 0.000000000 0.000000000 0.000000000 </Inertia>
+         </MassProperties>
+         <GeometryFile name="l41.step" type="STEP"/>
+         <VisualProperties>
+            <Ambient a="1.000000000" b="0.952941176" g="0.886274510" r="0.768627451"/>
+            <Diffuse a="1.000000000" b="0.952941176" g="0.886274510" r="0.768627451"/>
+            <Specular a="1.000000000" b="0.952941176" g="0.886274510" r="0.768627451"/>
+            <Emissive a="1" b="0" g="0" r="0"/>
+            <Shininess>0.5</Shininess>
+         </VisualProperties>
+      </Part>
+      <Part name="l11" uid="JJX*:*77db771c0fa8a6853da76872">
+         <ModelUnits length="millimeter" mass="kilogram"/>
+         <MassProperties>
+            <Mass>0</Mass>
+            <CenterOfMass>0.000000000 0.000000000 0.000000000 </CenterOfMass>
+            <Inertia>0.000000000 0.000000000 0.000000000 0.000000000 0.000000000 0.000000000 </Inertia>
+         </MassProperties>
+         <GeometryFile name="l11.step" type="STEP"/>
+         <VisualProperties>
+            <Ambient a="1.000000000" b="0.003921569" g="0.529411765" r="0.972549020"/>
+            <Diffuse a="1.000000000" b="0.003921569" g="0.529411765" r="0.972549020"/>
+            <Specular a="1.000000000" b="0.003921569" g="0.529411765" r="0.972549020"/>
+            <Emissive a="1" b="0" g="0" r="0"/>
+            <Shininess>0.5</Shininess>
+         </VisualProperties>
+      </Part>
+      <Part name="l12" uid="JJb*:*77db771c0fa8a6853da76872">
+         <ModelUnits length="millimeter" mass="kilogram"/>
+         <MassProperties>
+            <Mass>0</Mass>
+            <CenterOfMass>0.000000000 0.000000000 0.000000000 </CenterOfMass>
+            <Inertia>0.000000000 0.000000000 0.000000000 0.000000000 0.000000000 0.000000000 </Inertia>
+         </MassProperties>
+         <GeometryFile name="l12.step" type="STEP"/>
+         <VisualProperties>
+            <Ambient a="1.000000000" b="0.498039216" g="0.498039216" r="0.498039216"/>
+            <Diffuse a="1.000000000" b="0.498039216" g="0.498039216" r="0.498039216"/>
+            <Specular a="1.000000000" b="0.498039216" g="0.498039216" r="0.498039216"/>
+            <Emissive a="1" b="0" g="0" r="0"/>
+            <Shininess>0.5</Shininess>
+         </VisualProperties>
+      </Part>
+      <Part name="l31" uid="JJf*:*77db771c0fa8a6853da76872">
+         <ModelUnits length="millimeter" mass="kilogram"/>
+         <MassProperties>
+            <Mass>0</Mass>
+            <CenterOfMass>0.000000000 0.000000000 0.000000000 </CenterOfMass>
+            <Inertia>0.000000000 0.000000000 0.000000000 0.000000000 0.000000000 0.000000000 </Inertia>
+         </MassProperties>
+         <GeometryFile name="l31.step" type="STEP"/>
+         <VisualProperties>
+            <Ambient a="1.000000000" b="0.003921569" g="0.713725490" r="0.980392157"/>
+            <Diffuse a="1.000000000" b="0.003921569" g="0.713725490" r="0.980392157"/>
+            <Specular a="1.000000000" b="0.003921569" g="0.713725490" r="0.980392157"/>
+            <Emissive a="1" b="0" g="0" r="0"/>
+            <Shininess>0.5</Shininess>
+         </VisualProperties>
+      </Part>
+      <Part name="l32" uid="JJj*:*77db771c0fa8a6853da76872">
+         <ModelUnits length="millimeter" mass="kilogram"/>
+         <MassProperties>
+            <Mass>0</Mass>
+            <CenterOfMass>0.000000000 0.000000000 0.000000000 </CenterOfMass>
+            <Inertia>0.000000000 0.000000000 0.000000000 0.000000000 0.000000000 0.000000000 </Inertia>
+         </MassProperties>
+         <GeometryFile name="l32.step" type="STEP"/>
+         <VisualProperties>
+            <Ambient a="1.000000000" b="0.929411765" g="0.811764706" r="0.615686275"/>
+            <Diffuse a="1.000000000" b="0.929411765" g="0.811764706" r="0.615686275"/>
+            <Specular a="1.000000000" b="0.929411765" g="0.811764706" r="0.615686275"/>
+            <Emissive a="1" b="0" g="0" r="0"/>
+            <Shininess>0.5</Shininess>
+         </VisualProperties>
+      </Part>
+      <Part name="chasis" uid="JJD*:*d573ebf4297701bbdeb2d526">
+         <ModelUnits length="millimeter" mass="kilogram"/>
+         <MassProperties>
+            <Mass>0</Mass>
+            <CenterOfMass>0.000000000 0.000000000 0.000000000 </CenterOfMass>
+            <Inertia>0.000000000 0.000000000 0.000000000 0.000000000 0.000000000 0.000000000 </Inertia>
+         </MassProperties>
+         <GeometryFile name="chasis.step" type="STEP"/>
+         <VisualProperties>
+            <Ambient a="1.000000000" b="0.811764706" g="0.878431373" r="0.901960784"/>
+            <Diffuse a="1.000000000" b="0.811764706" g="0.878431373" r="0.901960784"/>
+            <Specular a="1.000000000" b="0.811764706" g="0.878431373" r="0.901960784"/>
+            <Emissive a="1" b="0" g="0" r="0"/>
+            <Shininess>0.5</Shininess>
+         </VisualProperties>
+      </Part>
+      <Part name="parachoquetrasero" uid="JJH*:*d573ebf4297701bbdeb2d526">
+         <ModelUnits length="millimeter" mass="kilogram"/>
+         <MassProperties>
+            <Mass>0</Mass>
+            <CenterOfMass>0.000000000 0.000000000 0.000000000 </CenterOfMass>
+            <Inertia>0.000000000 0.000000000 0.000000000 0.000000000 0.000000000 0.000000000 </Inertia>
+         </MassProperties>
+         <GeometryFile name="parachoquetrasero.step" type="STEP"/>
+         <VisualProperties>
+            <Ambient a="1.000000000" b="0.647058824" g="0.647058824" r="0.647058824"/>
+            <Diffuse a="1.000000000" b="0.647058824" g="0.647058824" r="0.647058824"/>
+            <Specular a="1.000000000" b="0.647058824" g="0.647058824" r="0.647058824"/>
+            <Emissive a="1" b="0" g="0" r="0"/>
+            <Shininess>0.5</Shininess>
+         </VisualProperties>
+      </Part>
+      <Part name="parachoquedelantero" uid="JJL*:*d573ebf4297701bbdeb2d526">
+         <ModelUnits length="millimeter" mass="kilogram"/>
+         <MassProperties>
+            <Mass>0</Mass>
+            <CenterOfMass>0.000000000 0.000000000 0.000000000 </CenterOfMass>
+            <Inertia>0.000000000 0.000000000 0.000000000 0.000000000 0.000000000 0.000000000 </Inertia>
+         </MassProperties>
+         <GeometryFile name="parachoquedelantero.step" type="STEP"/>
+         <VisualProperties>
+            <Ambient a="1.000000000" b="0.705882353" g="0.380392157" r="0.231372549"/>
+            <Diffuse a="1.000000000" b="0.705882353" g="0.380392157" r="0.231372549"/>
+            <Specular a="1.000000000" b="0.705882353" g="0.380392157" r="0.231372549"/>
+            <Emissive a="1" b="0" g="0" r="0"/>
+            <Shininess>0.5</Shininess>
+         </VisualProperties>
+      </Part>
+      <Part name="ventanafrontal" uid="JKD*:*d573ebf4297701bbdeb2d526">
+         <ModelUnits length="millimeter" mass="kilogram"/>
+         <MassProperties>
+            <Mass>0</Mass>
+            <CenterOfMass>0.000000000 0.000000000 0.000000000 </CenterOfMass>
+            <Inertia>0.000000000 0.000000000 0.000000000 0.000000000 0.000000000 0.000000000 </Inertia>
+         </MassProperties>
+         <GeometryFile name="ventanafrontal.step" type="STEP"/>
+         <VisualProperties>
+            <Ambient a="1.000000000" b="0.917647059" g="0.917647059" r="0.917647059"/>
+            <Diffuse a="1.000000000" b="0.917647059" g="0.917647059" r="0.917647059"/>
+            <Specular a="1.000000000" b="0.917647059" g="0.917647059" r="0.917647059"/>
+            <Emissive a="1" b="0" g="0" r="0"/>
+            <Shininess>0.5</Shininess>
+         </VisualProperties>
+      </Part>
+      <Part name="ledfrontalder" uid="JKH*:*d573ebf4297701bbdeb2d526">
+         <ModelUnits length="millimeter" mass="kilogram"/>
+         <MassProperties>
+            <Mass>0</Mass>
+            <CenterOfMass>0.000000000 0.000000000 0.000000000 </CenterOfMass>
+            <Inertia>0.000000000 0.000000000 0.000000000 0.000000000 0.000000000 0.000000000 </Inertia>
+         </MassProperties>
+         <GeometryFile name="ledfrontalder.step" type="STEP"/>
+         <VisualProperties>
+            <Ambient a="1.000000000" b="0.952941176" g="0.886274510" r="0.768627451"/>
+            <Diffuse a="1.000000000" b="0.952941176" g="0.886274510" r="0.768627451"/>
+            <Specular a="1.000000000" b="0.952941176" g="0.886274510" r="0.768627451"/>
+            <Emissive a="1" b="0" g="0" r="0"/>
+            <Shininess>0.5</Shininess>
+         </VisualProperties>
+      </Part>
+      <Part name="ledfrontaliz" uid="JKL*:*d573ebf4297701bbdeb2d526">
+         <ModelUnits length="millimeter" mass="kilogram"/>
+         <MassProperties>
+            <Mass>0</Mass>
+            <CenterOfMass>0.000000000 0.000000000 0.000000000 </CenterOfMass>
+            <Inertia>0.000000000 0.000000000 0.000000000 0.000000000 0.000000000 0.000000000 </Inertia>
+         </MassProperties>
+         <GeometryFile name="ledfrontaliz.step" type="STEP"/>
+         <VisualProperties>
+            <Ambient a="1.000000000" b="0.003921569" g="0.529411765" r="0.972549020"/>
+            <Diffuse a="1.000000000" b="0.003921569" g="0.529411765" r="0.972549020"/>
+            <Specular a="1.000000000" b="0.003921569" g="0.529411765" r="0.972549020"/>
+            <Emissive a="1" b="0" g="0" r="0"/>
+            <Shininess>0.5</Shininess>
+         </VisualProperties>
+      </Part>
+      <Part name="ledposterioriz" uid="JKP*:*d573ebf4297701bbdeb2d526">
+         <ModelUnits length="millimeter" mass="kilogram"/>
+         <MassProperties>
+            <Mass>0</Mass>
+            <CenterOfMass>0.000000000 0.000000000 0.000000000 </CenterOfMass>
+            <Inertia>0.000000000 0.000000000 0.000000000 0.000000000 0.000000000 0.000000000 </Inertia>
+         </MassProperties>
+         <GeometryFile name="ledposterioriz.step" type="STEP"/>
+         <VisualProperties>
+            <Ambient a="1.000000000" b="0.498039216" g="0.498039216" r="0.498039216"/>
+            <Diffuse a="1.000000000" b="0.498039216" g="0.498039216" r="0.498039216"/>
+            <Specular a="1.000000000" b="0.498039216" g="0.498039216" r="0.498039216"/>
+            <Emissive a="1" b="0" g="0" r="0"/>
+            <Shininess>0.5</Shininess>
+         </VisualProperties>
+      </Part>
+      <Part name="ledposteriorder" uid="JKT*:*d573ebf4297701bbdeb2d526">
+         <ModelUnits length="millimeter" mass="kilogram"/>
+         <MassProperties>
+            <Mass>0</Mass>
+            <CenterOfMass>0.000000000 0.000000000 0.000000000 </CenterOfMass>
+            <Inertia>0.000000000 0.000000000 0.000000000 0.000000000 0.000000000 0.000000000 </Inertia>
+         </MassProperties>
+         <GeometryFile name="ledposteriorder.step" type="STEP"/>
+         <VisualProperties>
+            <Ambient a="1.000000000" b="0.003921569" g="0.713725490" r="0.980392157"/>
+            <Diffuse a="1.000000000" b="0.003921569" g="0.713725490" r="0.980392157"/>
+            <Specular a="1.000000000" b="0.003921569" g="0.713725490" r="0.980392157"/>
+            <Emissive a="1" b="0" g="0" r="0"/>
+            <Shininess>0.5</Shininess>
+         </VisualProperties>
+      </Part>
+      <Part name="decotraiz" uid="JPD*:*d573ebf4297701bbdeb2d526">
+         <ModelUnits length="millimeter" mass="kilogram"/>
+         <MassProperties>
+            <Mass>0</Mass>
+            <CenterOfMass>0.000000000 0.000000000 0.000000000 </CenterOfMass>
+            <Inertia>0.000000000 0.000000000 0.000000000 0.000000000 0.000000000 0.000000000 </Inertia>
+         </MassProperties>
+         <GeometryFile name="decotraiz.step" type="STEP"/>
+         <VisualProperties>
+            <Ambient a="1.000000000" b="0.929411765" g="0.811764706" r="0.615686275"/>
+            <Diffuse a="1.000000000" b="0.929411765" g="0.811764706" r="0.615686275"/>
+            <Specular a="1.000000000" b="0.929411765" g="0.811764706" r="0.615686275"/>
+            <Emissive a="1" b="0" g="0" r="0"/>
+            <Shininess>0.5</Shininess>
+         </VisualProperties>
+      </Part>
+      <Part name="decodeiz" uid="JPH*:*d573ebf4297701bbdeb2d526">
+         <ModelUnits length="millimeter" mass="kilogram"/>
+         <MassProperties>
+            <Mass>0</Mass>
+            <CenterOfMass>0.000000000 0.000000000 0.000000000 </CenterOfMass>
+            <Inertia>0.000000000 0.000000000 0.000000000 0.000000000 0.000000000 0.000000000 </Inertia>
+         </MassProperties>
+         <GeometryFile name="decodeiz.step" type="STEP"/>
+         <VisualProperties>
+            <Ambient a="1.000000000" b="0.647058824" g="0.647058824" r="0.647058824"/>
+            <Diffuse a="1.000000000" b="0.647058824" g="0.647058824" r="0.647058824"/>
+            <Specular a="1.000000000" b="0.647058824" g="0.647058824" r="0.647058824"/>
+            <Emissive a="1" b="0" g="0" r="0"/>
+            <Shininess>0.5</Shininess>
+         </VisualProperties>
+      </Part>
+      <Part name="puertadeiz" uid="JPL*:*d573ebf4297701bbdeb2d526">
+         <ModelUnits length="millimeter" mass="kilogram"/>
+         <MassProperties>
+            <Mass>0</Mass>
+            <CenterOfMass>0.000000000 0.000000000 0.000000000 </CenterOfMass>
+            <Inertia>0.000000000 0.000000000 0.000000000 0.000000000 0.000000000 0.000000000 </Inertia>
+         </MassProperties>
+         <GeometryFile name="puertadeiz.step" type="STEP"/>
+         <VisualProperties>
+            <Ambient a="1.000000000" b="0.705882353" g="0.380392157" r="0.231372549"/>
+            <Diffuse a="1.000000000" b="0.705882353" g="0.380392157" r="0.231372549"/>
+            <Specular a="1.000000000" b="0.705882353" g="0.380392157" r="0.231372549"/>
+            <Emissive a="1" b="0" g="0" r="0"/>
+            <Shininess>0.5</Shininess>
+         </VisualProperties>
+      </Part>
+      <Part name="puertatraiz" uid="JPP*:*d573ebf4297701bbdeb2d526">
+         <ModelUnits length="millimeter" mass="kilogram"/>
+         <MassProperties>
+            <Mass>0</Mass>
+            <CenterOfMass>0.000000000 0.000000000 0.000000000 </CenterOfMass>
+            <Inertia>0.000000000 0.000000000 0.000000000 0.000000000 0.000000000 0.000000000 </Inertia>
+         </MassProperties>
+         <GeometryFile name="puertatraiz.step" type="STEP"/>
+         <VisualProperties>
+            <Ambient a="1.000000000" b="0.917647059" g="0.917647059" r="0.917647059"/>
+            <Diffuse a="1.000000000" b="0.917647059" g="0.917647059" r="0.917647059"/>
+            <Specular a="1.000000000" b="0.917647059" g="0.917647059" r="0.917647059"/>
+            <Emissive a="1" b="0" g="0" r="0"/>
+            <Shininess>0.5</Shininess>
+         </VisualProperties>
+      </Part>
+      <Part name="decotrader" uid="JUD*:*d573ebf4297701bbdeb2d526">
+         <ModelUnits length="millimeter" mass="kilogram"/>
+         <MassProperties>
+            <Mass>0</Mass>
+            <CenterOfMass>0.000000000 0.000000000 0.000000000 </CenterOfMass>
+            <Inertia>0.000000000 0.000000000 0.000000000 0.000000000 0.000000000 0.000000000 </Inertia>
+         </MassProperties>
+         <GeometryFile name="decotrader.step" type="STEP"/>
+         <VisualProperties>
+            <Ambient a="1.000000000" b="0.929411765" g="0.811764706" r="0.615686275"/>
+            <Diffuse a="1.000000000" b="0.929411765" g="0.811764706" r="0.615686275"/>
+            <Specular a="1.000000000" b="0.929411765" g="0.811764706" r="0.615686275"/>
+            <Emissive a="1" b="0" g="0" r="0"/>
+            <Shininess>0.5</Shininess>
+         </VisualProperties>
+      </Part>
+      <Part name="decodeder" uid="JUH*:*d573ebf4297701bbdeb2d526">
+         <ModelUnits length="millimeter" mass="kilogram"/>
+         <MassProperties>
+            <Mass>0</Mass>
+            <CenterOfMass>0.000000000 0.000000000 0.000000000 </CenterOfMass>
+            <Inertia>0.000000000 0.000000000 0.000000000 0.000000000 0.000000000 0.000000000 </Inertia>
+         </MassProperties>
+         <GeometryFile name="decodeder.step" type="STEP"/>
+         <VisualProperties>
+            <Ambient a="1.000000000" b="0.647058824" g="0.647058824" r="0.647058824"/>
+            <Diffuse a="1.000000000" b="0.647058824" g="0.647058824" r="0.647058824"/>
+            <Specular a="1.000000000" b="0.647058824" g="0.647058824" r="0.647058824"/>
+            <Emissive a="1" b="0" g="0" r="0"/>
+            <Shininess>0.5</Shininess>
+         </VisualProperties>
+      </Part>
+      <Part name="puertadeder" uid="JUL*:*d573ebf4297701bbdeb2d526">
+         <ModelUnits length="millimeter" mass="kilogram"/>
+         <MassProperties>
+            <Mass>0</Mass>
+            <CenterOfMass>0.000000000 0.000000000 0.000000000 </CenterOfMass>
+            <Inertia>0.000000000 0.000000000 0.000000000 0.000000000 0.000000000 0.000000000 </Inertia>
+         </MassProperties>
+         <GeometryFile name="puertadeder.step" type="STEP"/>
+         <VisualProperties>
+            <Ambient a="1.000000000" b="0.705882353" g="0.380392157" r="0.231372549"/>
+            <Diffuse a="1.000000000" b="0.705882353" g="0.380392157" r="0.231372549"/>
+            <Specular a="1.000000000" b="0.705882353" g="0.380392157" r="0.231372549"/>
+            <Emissive a="1" b="0" g="0" r="0"/>
+            <Shininess>0.5</Shininess>
+         </VisualProperties>
+      </Part>
+      <Part name="puertatrader" uid="JUP*:*d573ebf4297701bbdeb2d526">
+         <ModelUnits length="millimeter" mass="kilogram"/>
+         <MassProperties>
+            <Mass>0</Mass>
+            <CenterOfMass>0.000000000 0.000000000 0.000000000 </CenterOfMass>
+            <Inertia>0.000000000 0.000000000 0.000000000 0.000000000 0.000000000 0.000000000 </Inertia>
+         </MassProperties>
+         <GeometryFile name="puertatrader.step" type="STEP"/>
+         <VisualProperties>
+            <Ambient a="1.000000000" b="0.917647059" g="0.917647059" r="0.917647059"/>
+            <Diffuse a="1.000000000" b="0.917647059" g="0.917647059" r="0.917647059"/>
+            <Specular a="1.000000000" b="0.917647059" g="0.917647059" r="0.917647059"/>
+            <Emissive a="1" b="0" g="0" r="0"/>
+            <Shininess>0.5</Shininess>
+         </VisualProperties>
+      </Part>
+      <Part name="ventadader1" uid="JXD*:*d573ebf4297701bbdeb2d526">
+         <ModelUnits length="millimeter" mass="kilogram"/>
+         <MassProperties>
+            <Mass>0</Mass>
+            <CenterOfMass>0.000000000 0.000000000 0.000000000 </CenterOfMass>
+            <Inertia>0.000000000 0.000000000 0.000000000 0.000000000 0.000000000 0.000000000 </Inertia>
+         </MassProperties>
+         <GeometryFile name="ventadader1.step" type="STEP"/>
+         <VisualProperties>
+            <Ambient a="1.000000000" b="0.929411765" g="0.811764706" r="0.615686275"/>
+            <Diffuse a="1.000000000" b="0.929411765" g="0.811764706" r="0.615686275"/>
+            <Specular a="1.000000000" b="0.929411765" g="0.811764706" r="0.615686275"/>
+            <Emissive a="1" b="0" g="0" r="0"/>
+            <Shininess>0.5</Shininess>
+         </VisualProperties>
+      </Part>
+      <Part name="ventanader2" uid="JXH*:*d573ebf4297701bbdeb2d526">
+         <ModelUnits length="millimeter" mass="kilogram"/>
+         <MassProperties>
+            <Mass>0</Mass>
+            <CenterOfMass>0.000000000 0.000000000 0.000000000 </CenterOfMass>
+            <Inertia>0.000000000 0.000000000 0.000000000 0.000000000 0.000000000 0.000000000 </Inertia>
+         </MassProperties>
+         <GeometryFile name="ventanader2.step" type="STEP"/>
+         <VisualProperties>
+            <Ambient a="1.000000000" b="0.647058824" g="0.647058824" r="0.647058824"/>
+            <Diffuse a="1.000000000" b="0.647058824" g="0.647058824" r="0.647058824"/>
+            <Specular a="1.000000000" b="0.647058824" g="0.647058824" r="0.647058824"/>
+            <Emissive a="1" b="0" g="0" r="0"/>
+            <Shininess>0.5</Shininess>
+         </VisualProperties>
+      </Part>
+      <Part name="ventanader3" uid="JXL*:*d573ebf4297701bbdeb2d526">
+         <ModelUnits length="millimeter" mass="kilogram"/>
+         <MassProperties>
+            <Mass>0</Mass>
+            <CenterOfMass>0.000000000 0.000000000 0.000000000 </CenterOfMass>
+            <Inertia>0.000000000 0.000000000 0.000000000 0.000000000 0.000000000 0.000000000 </Inertia>
+         </MassProperties>
+         <GeometryFile name="ventanader3.step" type="STEP"/>
+         <VisualProperties>
+            <Ambient a="1.000000000" b="0.705882353" g="0.380392157" r="0.231372549"/>
+            <Diffuse a="1.000000000" b="0.705882353" g="0.380392157" r="0.231372549"/>
+            <Specular a="1.000000000" b="0.705882353" g="0.380392157" r="0.231372549"/>
+            <Emissive a="1" b="0" g="0" r="0"/>
+            <Shininess>0.5</Shininess>
+         </VisualProperties>
+      </Part>
+      <Part name="llantatrader" uid="JiD*:*d573ebf4297701bbdeb2d526">
+         <ModelUnits length="millimeter" mass="kilogram"/>
+         <MassProperties>
+            <Mass>0</Mass>
+            <CenterOfMass>0.000000000 0.000000000 0.000000000 </CenterOfMass>
+            <Inertia>0.000000000 0.000000000 0.000000000 0.000000000 0.000000000 0.000000000 </Inertia>
+         </MassProperties>
+         <GeometryFile name="llantatrader.step" type="STEP"/>
+         <VisualProperties>
+            <Ambient a="1.000000000" b="0.929411765" g="0.811764706" r="0.615686275"/>
+            <Diffuse a="1.000000000" b="0.929411765" g="0.811764706" r="0.615686275"/>
+            <Specular a="1.000000000" b="0.929411765" g="0.811764706" r="0.615686275"/>
+            <Emissive a="1" b="0" g="0" r="0"/>
+            <Shininess>0.5</Shininess>
+         </VisualProperties>
+      </Part>
+      <Part name="llantadeder" uid="JiH*:*d573ebf4297701bbdeb2d526">
+         <ModelUnits length="millimeter" mass="kilogram"/>
+         <MassProperties>
+            <Mass>0</Mass>
+            <CenterOfMass>0.000000000 0.000000000 0.000000000 </CenterOfMass>
+            <Inertia>0.000000000 0.000000000 0.000000000 0.000000000 0.000000000 0.000000000 </Inertia>
+         </MassProperties>
+         <GeometryFile name="llantadeder.step" type="STEP"/>
+         <VisualProperties>
+            <Ambient a="1.000000000" b="0.647058824" g="0.647058824" r="0.647058824"/>
+            <Diffuse a="1.000000000" b="0.647058824" g="0.647058824" r="0.647058824"/>
+            <Specular a="1.000000000" b="0.647058824" g="0.647058824" r="0.647058824"/>
+            <Emissive a="1" b="0" g="0" r="0"/>
+            <Shininess>0.5</Shininess>
+         </VisualProperties>
+      </Part>
+      <Part name="rindeder" uid="JiL*:*d573ebf4297701bbdeb2d526">
+         <ModelUnits length="millimeter" mass="kilogram"/>
+         <MassProperties>
+            <Mass>0</Mass>
+            <CenterOfMass>0.000000000 0.000000000 0.000000000 </CenterOfMass>
+            <Inertia>0.000000000 0.000000000 0.000000000 0.000000000 0.000000000 0.000000000 </Inertia>
+         </MassProperties>
+         <GeometryFile name="rindeder.step" type="STEP"/>
+         <VisualProperties>
+            <Ambient a="1.000000000" b="0.705882353" g="0.380392157" r="0.231372549"/>
+            <Diffuse a="1.000000000" b="0.705882353" g="0.380392157" r="0.231372549"/>
+            <Specular a="1.000000000" b="0.705882353" g="0.380392157" r="0.231372549"/>
+            <Emissive a="1" b="0" g="0" r="0"/>
+            <Shininess>0.5</Shininess>
+         </VisualProperties>
+      </Part>
+      <Part name="rintrader" uid="JiP*:*d573ebf4297701bbdeb2d526">
+         <ModelUnits length="millimeter" mass="kilogram"/>
+         <MassProperties>
+            <Mass>0</Mass>
+            <CenterOfMass>0.000000000 0.000000000 0.000000000 </CenterOfMass>
+            <Inertia>0.000000000 0.000000000 0.000000000 0.000000000 0.000000000 0.000000000 </Inertia>
+         </MassProperties>
+         <GeometryFile name="rintrader.step" type="STEP"/>
+         <VisualProperties>
+            <Ambient a="1.000000000" b="0.917647059" g="0.917647059" r="0.917647059"/>
+            <Diffuse a="1.000000000" b="0.917647059" g="0.917647059" r="0.917647059"/>
+            <Specular a="1.000000000" b="0.917647059" g="0.917647059" r="0.917647059"/>
+            <Emissive a="1" b="0" g="0" r="0"/>
+            <Shininess>0.5</Shininess>
+         </VisualProperties>
+      </Part>
+      <Part name="llantatraiz" uid="JlD*:*d573ebf4297701bbdeb2d526">
+         <ModelUnits length="millimeter" mass="kilogram"/>
+         <MassProperties>
+            <Mass>0</Mass>
+            <CenterOfMass>0.000000000 0.000000000 0.000000000 </CenterOfMass>
+            <Inertia>0.000000000 0.000000000 0.000000000 0.000000000 0.000000000 0.000000000 </Inertia>
+         </MassProperties>
+         <GeometryFile name="llantatraiz.step" type="STEP"/>
+         <VisualProperties>
+            <Ambient a="1.000000000" b="0.929411765" g="0.811764706" r="0.615686275"/>
+            <Diffuse a="1.000000000" b="0.929411765" g="0.811764706" r="0.615686275"/>
+            <Specular a="1.000000000" b="0.929411765" g="0.811764706" r="0.615686275"/>
+            <Emissive a="1" b="0" g="0" r="0"/>
+            <Shininess>0.5</Shininess>
+         </VisualProperties>
+      </Part>
+      <Part name="llantadeiz" uid="JlH*:*d573ebf4297701bbdeb2d526">
+         <ModelUnits length="millimeter" mass="kilogram"/>
+         <MassProperties>
+            <Mass>0</Mass>
+            <CenterOfMass>0.000000000 0.000000000 0.000000000 </CenterOfMass>
+            <Inertia>0.000000000 0.000000000 0.000000000 0.000000000 0.000000000 0.000000000 </Inertia>
+         </MassProperties>
+         <GeometryFile name="llantadeiz.step" type="STEP"/>
+         <VisualProperties>
+            <Ambient a="1.000000000" b="0.647058824" g="0.647058824" r="0.647058824"/>
+            <Diffuse a="1.000000000" b="0.647058824" g="0.647058824" r="0.647058824"/>
+            <Specular a="1.000000000" b="0.647058824" g="0.647058824" r="0.647058824"/>
+            <Emissive a="1" b="0" g="0" r="0"/>
+            <Shininess>0.5</Shininess>
+         </VisualProperties>
+      </Part>
+      <Part name="rindeiz" uid="JlL*:*d573ebf4297701bbdeb2d526">
+         <ModelUnits length="millimeter" mass="kilogram"/>
+         <MassProperties>
+            <Mass>0</Mass>
+            <CenterOfMass>0.000000000 0.000000000 0.000000000 </CenterOfMass>
+            <Inertia>0.000000000 0.000000000 0.000000000 0.000000000 0.000000000 0.000000000 </Inertia>
+         </MassProperties>
+         <GeometryFile name="rindeiz.step" type="STEP"/>
+         <VisualProperties>
+            <Ambient a="1.000000000" b="0.705882353" g="0.380392157" r="0.231372549"/>
+            <Diffuse a="1.000000000" b="0.705882353" g="0.380392157" r="0.231372549"/>
+            <Specular a="1.000000000" b="0.705882353" g="0.380392157" r="0.231372549"/>
+            <Emissive a="1" b="0" g="0" r="0"/>
+            <Shininess>0.5</Shininess>
+         </VisualProperties>
+      </Part>
+      <Part name="rintraiz" uid="JlP*:*d573ebf4297701bbdeb2d526">
+         <ModelUnits length="millimeter" mass="kilogram"/>
+         <MassProperties>
+            <Mass>0</Mass>
+            <CenterOfMass>0.000000000 0.000000000 0.000000000 </CenterOfMass>
+            <Inertia>0.000000000 0.000000000 0.000000000 0.000000000 0.000000000 0.000000000 </Inertia>
+         </MassProperties>
+         <GeometryFile name="rintraiz.step" type="STEP"/>
+         <VisualProperties>
+            <Ambient a="1.000000000" b="0.917647059" g="0.917647059" r="0.917647059"/>
+            <Diffuse a="1.000000000" b="0.917647059" g="0.917647059" r="0.917647059"/>
+            <Specular a="1.000000000" b="0.917647059" g="0.917647059" r="0.917647059"/>
+            <Emissive a="1" b="0" g="0" r="0"/>
+            <Shininess>0.5</Shininess>
+         </VisualProperties>
+      </Part>
+      <Part name="regillacapo" uid="JoD*:*d573ebf4297701bbdeb2d526">
+         <ModelUnits length="millimeter" mass="kilogram"/>
+         <MassProperties>
+            <Mass>0</Mass>
+            <CenterOfMass>0.000000000 0.000000000 0.000000000 </CenterOfMass>
+            <Inertia>0.000000000 0.000000000 0.000000000 0.000000000 0.000000000 0.000000000 </Inertia>
+         </MassProperties>
+         <GeometryFile name="regillacapo.step" type="STEP"/>
+         <VisualProperties>
+            <Ambient a="1.000000000" b="0.929411765" g="0.811764706" r="0.615686275"/>
+            <Diffuse a="1.000000000" b="0.929411765" g="0.811764706" r="0.615686275"/>
+            <Specular a="1.000000000" b="0.929411765" g="0.811764706" r="0.615686275"/>
+            <Emissive a="1" b="0" g="0" r="0"/>
+            <Shininess>0.5</Shininess>
+         </VisualProperties>
+      </Part>
+      <Part name="ventanatrader" uid="JoH*:*d573ebf4297701bbdeb2d526">
+         <ModelUnits length="millimeter" mass="kilogram"/>
+         <MassProperties>
+            <Mass>0</Mass>
+            <CenterOfMass>0.000000000 0.000000000 0.000000000 </CenterOfMass>
+            <Inertia>0.000000000 0.000000000 0.000000000 0.000000000 0.000000000 0.000000000 </Inertia>
+         </MassProperties>
+         <GeometryFile name="ventanatrader.step" type="STEP"/>
+         <VisualProperties>
+            <Ambient a="1.000000000" b="0.647058824" g="0.647058824" r="0.647058824"/>
+            <Diffuse a="1.000000000" b="0.647058824" g="0.647058824" r="0.647058824"/>
+            <Specular a="1.000000000" b="0.647058824" g="0.647058824" r="0.647058824"/>
+            <Emissive a="1" b="0" g="0" r="0"/>
+            <Shininess>0.5</Shininess>
+         </VisualProperties>
+      </Part>
+      <Part name="ventanatraiz" uid="JoL*:*d573ebf4297701bbdeb2d526">
+         <ModelUnits length="millimeter" mass="kilogram"/>
+         <MassProperties>
+            <Mass>0</Mass>
+            <CenterOfMass>0.000000000 0.000000000 0.000000000 </CenterOfMass>
+            <Inertia>0.000000000 0.000000000 0.000000000 0.000000000 0.000000000 0.000000000 </Inertia>
+         </MassProperties>
+         <GeometryFile name="ventanatraiz.step" type="STEP"/>
+         <VisualProperties>
+            <Ambient a="1.000000000" b="0.705882353" g="0.380392157" r="0.231372549"/>
+            <Diffuse a="1.000000000" b="0.705882353" g="0.380392157" r="0.231372549"/>
+            <Specular a="1.000000000" b="0.705882353" g="0.380392157" r="0.231372549"/>
+            <Emissive a="1" b="0" g="0" r="0"/>
+            <Shininess>0.5</Shininess>
+         </VisualProperties>
+      </Part>
+      <Part name="capo" uid="JrD*:*d573ebf4297701bbdeb2d526">
+         <ModelUnits length="millimeter" mass="kilogram"/>
+         <MassProperties>
+            <Mass>0</Mass>
+            <CenterOfMass>0.000000000 0.000000000 0.000000000 </CenterOfMass>
+            <Inertia>0.000000000 0.000000000 0.000000000 0.000000000 0.000000000 0.000000000 </Inertia>
+         </MassProperties>
+         <GeometryFile name="capo.step" type="STEP"/>
+         <VisualProperties>
+            <Ambient a="1.000000000" b="0.929411765" g="0.811764706" r="0.615686275"/>
+            <Diffuse a="1.000000000" b="0.929411765" g="0.811764706" r="0.615686275"/>
+            <Specular a="1.000000000" b="0.929411765" g="0.811764706" r="0.615686275"/>
+            <Emissive a="1" b="0" g="0" r="0"/>
+            <Shininess>0.5</Shininess>
+         </VisualProperties>
+      </Part>
+      <Part name="ventanaiz1" uid="JtD*:*d573ebf4297701bbdeb2d526">
+         <ModelUnits length="millimeter" mass="kilogram"/>
+         <MassProperties>
+            <Mass>0</Mass>
+            <CenterOfMass>0.000000000 0.000000000 0.000000000 </CenterOfMass>
+            <Inertia>0.000000000 0.000000000 0.000000000 0.000000000 0.000000000 0.000000000 </Inertia>
+         </MassProperties>
+         <GeometryFile name="ventanaiz1.step" type="STEP"/>
+         <VisualProperties>
+            <Ambient a="1.000000000" b="0.952941176" g="0.886274510" r="0.768627451"/>
+            <Diffuse a="1.000000000" b="0.952941176" g="0.886274510" r="0.768627451"/>
+            <Specular a="1.000000000" b="0.952941176" g="0.886274510" r="0.768627451"/>
+            <Emissive a="1" b="0" g="0" r="0"/>
+            <Shininess>0.5</Shininess>
+         </VisualProperties>
+      </Part>
+      <Part name="vantanaiz2" uid="JtH*:*d573ebf4297701bbdeb2d526">
+         <ModelUnits length="millimeter" mass="kilogram"/>
+         <MassProperties>
+            <Mass>0</Mass>
+            <CenterOfMass>0.000000000 0.000000000 0.000000000 </CenterOfMass>
+            <Inertia>0.000000000 0.000000000 0.000000000 0.000000000 0.000000000 0.000000000 </Inertia>
+         </MassProperties>
+         <GeometryFile name="vantanaiz2.step" type="STEP"/>
+         <VisualProperties>
+            <Ambient a="1.000000000" b="0.003921569" g="0.529411765" r="0.972549020"/>
+            <Diffuse a="1.000000000" b="0.003921569" g="0.529411765" r="0.972549020"/>
+            <Specular a="1.000000000" b="0.003921569" g="0.529411765" r="0.972549020"/>
+            <Emissive a="1" b="0" g="0" r="0"/>
+            <Shininess>0.5</Shininess>
+         </VisualProperties>
+      </Part>
+      <Part name="ventanaiz3" uid="JtL*:*d573ebf4297701bbdeb2d526">
+         <ModelUnits length="millimeter" mass="kilogram"/>
+         <MassProperties>
+            <Mass>0</Mass>
+            <CenterOfMass>0.000000000 0.000000000 0.000000000 </CenterOfMass>
+            <Inertia>0.000000000 0.000000000 0.000000000 0.000000000 0.000000000 0.000000000 </Inertia>
+         </MassProperties>
+         <GeometryFile name="ventanaiz3.step" type="STEP"/>
+         <VisualProperties>
+            <Ambient a="1.000000000" b="0.498039216" g="0.498039216" r="0.498039216"/>
+            <Diffuse a="1.000000000" b="0.498039216" g="0.498039216" r="0.498039216"/>
+            <Specular a="1.000000000" b="0.498039216" g="0.498039216" r="0.498039216"/>
+            <Emissive a="1" b="0" g="0" r="0"/>
+            <Shininess>0.5</Shininess>
+         </VisualProperties>
+      </Part>
+   </Parts>
+</SimscapeMultibodyImportXML>
